@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.91889dfb.chunk.css",
-    "main.js": "/static/js/main.fa04fbc5.chunk.js",
-    "main.js.map": "/static/js/main.fa04fbc5.chunk.js.map",
+    "main.css": "/static/css/main.a44e5ac3.chunk.css",
+    "main.js": "/static/js/main.af45c3cf.chunk.js",
+    "main.js.map": "/static/js/main.af45c3cf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6c404384.js",
     "runtime-main.js.map": "/static/js/runtime-main.6c404384.js.map",
     "static/css/2.383c0125.chunk.css": "/static/css/2.383c0125.chunk.css",
-    "static/js/2.7f1f1b55.chunk.js": "/static/js/2.7f1f1b55.chunk.js",
-    "static/js/2.7f1f1b55.chunk.js.map": "/static/js/2.7f1f1b55.chunk.js.map",
+    "static/js/2.d7b9ce5b.chunk.js": "/static/js/2.d7b9ce5b.chunk.js",
+    "static/js/2.d7b9ce5b.chunk.js.map": "/static/js/2.d7b9ce5b.chunk.js.map",
     "static/js/3.dab78f2e.chunk.js": "/static/js/3.dab78f2e.chunk.js",
     "static/js/3.dab78f2e.chunk.js.map": "/static/js/3.dab78f2e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.383c0125.chunk.css.map": "/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.91889dfb.chunk.css.map": "/static/css/main.91889dfb.chunk.css.map",
-    "static/js/2.7f1f1b55.chunk.js.LICENSE.txt": "/static/js/2.7f1f1b55.chunk.js.LICENSE.txt",
-    "static/media/TGDdark.e6165786.png": "/static/media/TGDdark.e6165786.png",
-    "static/media/brandlogo.9365775e.png": "/static/media/brandlogo.9365775e.png",
+    "static/css/main.a44e5ac3.chunk.css.map": "/static/css/main.a44e5ac3.chunk.css.map",
+    "static/js/2.d7b9ce5b.chunk.js.LICENSE.txt": "/static/js/2.d7b9ce5b.chunk.js.LICENSE.txt",
+    "static/media/TGDcolored.9273ce70.png": "/static/media/TGDcolored.9273ce70.png",
+    "static/media/TGDdark.f8d6e481.png": "/static/media/TGDdark.f8d6e481.png",
     "static/media/email.ec2185e9.png": "/static/media/email.ec2185e9.png",
     "static/media/navlogo.5ec2f129.png": "/static/media/navlogo.5ec2f129.png",
     "static/media/plugsLight.1e65ad01.png": "/static/media/plugsLight.1e65ad01.png"
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.6c404384.js",
     "static/css/2.383c0125.chunk.css",
-    "static/js/2.7f1f1b55.chunk.js",
-    "static/css/main.91889dfb.chunk.css",
-    "static/js/main.fa04fbc5.chunk.js"
+    "static/js/2.d7b9ce5b.chunk.js",
+    "static/css/main.a44e5ac3.chunk.css",
+    "static/js/main.af45c3cf.chunk.js"
   ]
 }
